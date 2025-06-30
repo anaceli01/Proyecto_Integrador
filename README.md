@@ -1,5 +1,4 @@
-# Proyecto_Integrador
-# En está carpeta dónde está el proyecto integrador hay un archivo llamado index.html
-# El html es una demo de Bookstrap la cuál hasta ahora sigue en desarrollo
-# Por ahora consta de un buscador y tres rayas dónde ponen como volverse editor e iniciar sesión
-# También cuenta por el momento con solo dos idiomas
+# Este repositorio contiene un Proyecto llamado "Voces del Archipiélago"
+Este proyecto trata de una plataforma web, tipo repositorio que busca reguardar información variada sobre la Isla de Chiloé.
+Por el momento, está en desarrollo, y dentro encontrarás un archivo html y otro de css.
+
