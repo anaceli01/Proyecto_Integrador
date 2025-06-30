@@ -1,0 +1,66 @@
+body {
+         font-family: "Roboto", sans-serif;
+}
+
+h1, h2 {
+        font-family: "Libertinus Math", system-ui;
+}
+.bg-green{
+    background-color: #3F8271;
+}
+.bg-green2{
+    background-color: #51786a;
+}
+.big-font-grow{
+    font-size: 6vw;
+
+}
+.big-font-grow2{
+    font-size: 3vw;
+
+}
+.medium-font-grow{
+    font-size: 3vw
+}
+.medium-font-grow2{
+    font-size: 2vw
+}
+.dropdown-menu.fullwidth-dropdown1 {
+  position: absolute !important;
+  top: 100%; 
+  left: 16%;
+  right: 0;
+  width: 90vw !important; 
+  
+  border-radius: "rounded"; 
+  margin: 0; 
+  box-sizing: border-box !important;
+  z-index: 1050; 
+  background-color:#51786a;
+}
+.dropdown-menu.fullwidth-dropdown2 {
+  position: absolute !important; 
+  top: 100%;  
+  left: -84%;
+  right: 0;
+  width: 90vw !important; 
+  
+  border-radius: "rounded"; 
+  margin: 0; 
+  box-sizing: border-box !important;
+  z-index: 1050; 
+  background-color:#51786a;
+}
+.dropdown-menu.fullwidth-dropdown3 {
+  position: absolute !important; 
+  top: 100%;  
+  left: -184%;
+  right: 0;
+  width: 90vw !important; 
+  
+  border-radius: "rounded";
+  margin: 0; 
+  box-sizing: border-box !important;
+  z-index: 1050; 
+  background-color:#51786a;
+}
